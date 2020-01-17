@@ -1,0 +1,36 @@
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\bin\Debug\ColorReplacerV2.exe.config
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\bin\Debug\ColorReplacerV2.exe
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\bin\Debug\ColorReplacerV2.pdb
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.csprojAssemblyReference.cache
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.Form1.resources
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.Properties.Resources.resources
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.csproj.GenerateResource.cache
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.exe
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.pdb
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\bin\Debug\RedCell.UI.Controls.PixelBox.dll
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\bin\Debug\RedCell.UI.Controls.PixelBox.pdb
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.csproj.CopyComplete
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.csprojAssemblyReference.cache
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.Form1.resources
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.Properties.Resources.resources
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.csproj.GenerateResource.cache
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.exe
+C:\Users\ANT\Documents\Projets\En Cours\ColorReplacerV2\ColorReplacerV2\obj\Debug\ColorReplacerV2.pdb
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\obj\Debug\ColorReplacerV2.csprojAssemblyReference.cache
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\obj\Debug\ColorReplacerV2.Form1.resources
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\obj\Debug\ColorReplacerV2.Properties.Resources.resources
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\obj\Debug\ColorReplacerV2.csproj.GenerateResource.cache
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\obj\Debug\ColorReplacerV2.exe
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\obj\Debug\ColorReplacerV2.pdb
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\bin\Debug\ColorReplacerV2.exe.config
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\bin\Debug\ColorReplacerV2.exe
+C:\Users\ANT\Documents\Projets\En Cours\SimpleColorReplacer\ColorReplacerV2\bin\Debug\ColorReplacerV2.pdb
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\bin\Debug\ColorReplacerV2.exe.config
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\bin\Debug\ColorReplacerV2.exe
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\bin\Debug\ColorReplacerV2.pdb
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorReplacerV2.csprojAssemblyReference.cache
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorReplacerV2.Form1.resources
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorReplacerV2.Properties.Resources.resources
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorReplacerV2.csproj.GenerateResource.cache
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorReplacerV2.exe
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorReplacerV2.pdb

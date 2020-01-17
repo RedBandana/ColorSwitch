@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ColorSwitch.exe" version="1.0.0.12" publicKeyToken="cebfa77097fbc782" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="cs-logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ColorSwitch" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ColorSwitch.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ColorSwitch.exe" size="76760">
+      <assemblyIdentity name="ColorSwitch" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>/YLv6PoAw5U0pPLBYtIcg3sd/U8uoYdCgBvJcprG+94=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ColorSwitch.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="cs-logo.ico" size="3262">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>aiou8C5KV+JQfSndaRUNHhAQ0WcgeqVVkFUN4+KN+gU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-74RKGAU\ANT" issuerKeyHash="adaec30435cf12ec584a756d3ce5d49fc3446f37" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UKGI/Y/HfH37GC43g9Ovo79JwkoUD2ig41nzLIheydg=</DigestValue></Reference></SignedInfo><SignatureValue>PRKGpUiRudZf572x93f5dOzNIgycLj96GnNXmrSKdcJ1T6K+OsXZil/TNUiBeYJhyDzDA65B1PGoGWJBU3i1M6kTnUThH75XMv1sZwq5uYz3OhZTiIpU2Mso116Be70zNAJeMDnDNeXdIshJkIY0cCoYJEP4oheDfjmHtrQO4O8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3jAWUWGkMYxZUByXxCUncN1/oAwuKWpdMV1Xp86qpiJMEKdXB1RcsZRKIOUOGykI/eqC2yfdaLY0TQW+VAM/TMs2/hp33BMmq3Xamc4Yr1BrrccLbXGJAnIo2a8FXlKUNNBdnKW1lFe/Cx9JREMk2IIQM+hu+Pt6CfaGik4j1lk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d8c95e882cf359e3a0680f144ac249bfa3afd383372e18fb7d7cc78ffd88a150" Description="" Url=""><as:assemblyIdentity name="ColorSwitch.exe" version="1.0.0.12" publicKeyToken="cebfa77097fbc782" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-74RKGAU\ANT</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WOdg8u0jWSQ9sI/vn9s4SqmWqOW12eScWNs1euWmYuU=</DigestValue></Reference></SignedInfo><SignatureValue>P7s7+ex+A0QJv3oIcxnqteUOjMWab/B+Ar2mOES1WdGUqDQrlWg/rRYUx1wpN2KswqKMfWpNXemYpU342gLe1lMn5GlS9nVwqt2YIvd2I4Zr0W7+K6Qqiw7X3nmZ/DzPdvqmUTKxr6ZlMpg+A2uUCOyESqpx3trTyWVfXGsnfAA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3jAWUWGkMYxZUByXxCUncN1/oAwuKWpdMV1Xp86qpiJMEKdXB1RcsZRKIOUOGykI/eqC2yfdaLY0TQW+VAM/TMs2/hp33BMmq3Xamc4Yr1BrrccLbXGJAnIo2a8FXlKUNNBdnKW1lFe/Cx9JREMk2IIQM+hu+Pt6CfaGik4j1lk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQGoKWqw/kja1Owxy1ISAgDjANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYARABFAFMASwBUAE8AUAAtADcANABSAEsARwBBAFUAXABBAE4AVDAeFw0xOTEyMjcwMjQ3NDRaFw0yMDEyMjYwODQ3NDRaMDExLzAtBgNVBAMeJgBEAEUAUwBLAFQATwBQAC0ANwA0AFIASwBHAEEAVQBcAEEATgBUMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDeMBZRYaQxjFlQHJfEJSdw3X+gDC4pal0xXVenzqqmIkwQp1cHVFyxlEog5Q4bKQj96oLbJ91otjRNBb5UAz9Myzb+GnfcEyarddqZzhivUGutxwttcYkCcijZrwVeUpQ00F2cpbWUV78LH0lEQyTYghAz6G74+3oJ9oaKTiPWWQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAD/q2z85O7+rDoUq/GZ+8ZxyQMO2SZ4bS9qBF24Hc3ifgQ4nqx/tUbDLUvpIpRIb0ZRa/SosmVsQsyjca8EwKYnWoWKOp6BJ1jLyqleGSEtVm60+rC9xjE5BiGeQbNZgMVheToUSE2wBIVxwMNDKQ/vUp1nuTVcLDsOMW37Fp/hm</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

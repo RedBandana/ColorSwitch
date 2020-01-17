@@ -1,0 +1,13 @@
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorSwitch.csproj.GenerateResource.cache
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorSwitch.csprojAssemblyReference.cache
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\bin\Debug\ColorSwitch.exe.config
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\bin\Debug\ColorSwitch.exe
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\bin\Debug\ColorSwitch.pdb
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorSwitch.FrmColorSwitch.resources
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorSwitch.Properties.Resources.resources
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorSwitch.exe
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorSwitch.pdb
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\bin\Debug\ColorSwitch.exe.manifest
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\bin\Debug\ColorSwitch.application
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorSwitch.exe.manifest
+C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorReplacerV2\obj\Debug\ColorSwitch.application

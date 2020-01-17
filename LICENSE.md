@@ -1,1 +1,1 @@
-Everyone can use the application by specifying it's from here.
+Everyone can use this application by specifying it's from here.

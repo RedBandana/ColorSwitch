@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ColorSwitch.exe" size="77272">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ColorSwitch.exe" size="76288">
       <assemblyIdentity name="ColorSwitch" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fwtACqWSoOvHDWyLEks1JKS7AmYHZie9X/P7Na99WVM=</dsig:DigestValue>
+        <dsig:DigestValue>qqHbrEEHaX7sOLOy/slMJLHwwKWfzex0bkPba11qqyk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

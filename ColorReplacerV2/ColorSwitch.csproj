@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>C:\Users\ANT\Documents\Projets\En Cours\Color Switch\ColorSwitchFinal\</PublishUrl>
+    <PublishUrl>C:\Users\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -102,7 +102,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="ColorSwitch_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -123,25 +122,10 @@
     <None Include="bin\Debug\image\arrow-icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\image\open-icon.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\image\open-icon-color.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="bin\Debug\image\restart-icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\image\save-icon.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\image\save-icon-color.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Image1.gif" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="bin\Debug\image\Zoro shirt man.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\image\color-switch.png" />

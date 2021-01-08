@@ -59,6 +59,8 @@ namespace ColorSwitch
 
             cdNewColor.Color = pnlNewColor.BackColor;
             cdOldColor.Color = pnlOldColor.BackColor;
+
+            cbAutoMode.Checked = true;
             #endregion
 
             #region Initialize global variables
